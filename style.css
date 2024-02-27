@@ -179,8 +179,9 @@ a {
     .main__right {
         display: none;
     }
-    .main__left{
-        width: 70vw;
+    .left__img{
+        width: 100%;
+        height: 100%;
     }
 }
 
