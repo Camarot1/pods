@@ -32,7 +32,7 @@ a {
 .container {
     background: #F4F6F5;
     margin: 0 auto;
-    width: 1440px;
+    max-width: 1440px;
 }
 
 .button__style {
